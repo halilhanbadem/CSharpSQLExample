@@ -18,7 +18,7 @@ namespace CSharpSQLExample
        public SqlCommand sqlQuery = new SqlCommand();
 
 
-        string SQLConnectionString = @"Data Source=POLICE\HALILHAN; Initial Catalog=SQLExample; Integrated Security=SSPI";
+        string SQLConnectionString = @"Data Source=SQL_SERVER_ADRESINIZ; Initial Catalog=SQLExample; Integrated Security=SSPI";
 
         public void dbBaglan()
         {
