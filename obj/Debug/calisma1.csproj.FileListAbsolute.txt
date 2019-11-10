@@ -1,0 +1,10 @@
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\bin\Debug\calisma1.exe.config
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\bin\Debug\calisma1.exe
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\bin\Debug\calisma1.pdb
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\calisma1.csprojAssemblyReference.cache
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\calisma1.frmLogin.resources
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\calisma1.Properties.Resources.resources
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\calisma1.csproj.GenerateResource.cache
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\calisma1.exe
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\calisma1.pdb
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\calisma1.frmMain.resources

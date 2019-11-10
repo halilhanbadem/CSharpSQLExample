@@ -1,0 +1,11 @@
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\bin\Debug\CSharpSQLExample.exe.config
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\bin\Debug\CSharpSQLExample.exe
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\bin\Debug\CSharpSQLExample.pdb
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\CSharpSQLExample.Properties.Resources.resources
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\CSharpSQLExample.csproj.GenerateResource.cache
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\CSharpSQLExample.exe
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\CSharpSQLExample.pdb
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\CSharpSQLExample.frmLogin.resources
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\CSharpSQLExample.frmMain.resources
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\CSharpSQLExample.csprojAssemblyReference.cache
+C:\Users\Halil Han\Desktop\calisma1\calisma1\calisma1\obj\Debug\CSharpSQLExample.frmUpdate.resources
